@@ -3,5 +3,8 @@ A simple survey system
 # First thing get the Zip File
 survey form.zip
 # Download the Required Application suport
+install the documents
+# Run the Server on portLocal host 
+use the Command run build .
 
-# Run the Server on port:5001 Local host
+#You are All set
