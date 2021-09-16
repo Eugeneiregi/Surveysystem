@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: aqua;
+    overflow: hidden;
+    box-shadow: black;
+}
+.container {
+    text-align: center;
+    background-color: sandybrown;
+    padding: 0;
+    margin: 0;
+    color: snow;
+}
+
